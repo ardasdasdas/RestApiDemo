@@ -10,7 +10,7 @@ In Eclipse,
 
 as shown below.
 
-![new-starter-project-screen](https://user-images.githubusercontent.com/53192718/95258136-fca2a480-082d-11eb-8182-27d0c1b3ecd3.jpg)
+![new-starter-project-screen](https://user-images.githubusercontent.com/53192718/95268153-6f684b80-083f-11eb-918d-7ac8cc5c777b.jpg)
 
 
 After creating project let's code!
