@@ -1,4 +1,4 @@
-This project is a simple Spring Boot CRUD Appliacation.
+This project is a simple Rest API with Spring Boot CRUD Appliacation.
 
 Main Goal is:
 * Create a Spring Boot Project
@@ -77,7 +77,7 @@ Endpoints:
 * http://localhost:8080/delete/students
 * http://localhost:8080/delete/students/{id}
 * http://localhost:8080/delete/courses
-* http://localhost:8080/delete/courses&{courseName}
+* http://localhost:8080/delete/courses/{courseName}
 
 ![delete-method](https://user-images.githubusercontent.com/53192718/95265619-2e216d00-083a-11eb-967d-88e3e3b4b63a.jpg)
 
